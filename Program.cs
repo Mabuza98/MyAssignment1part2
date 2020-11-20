@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 namespace Assignment1.p2
 {
     class Program
